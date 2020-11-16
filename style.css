@@ -1,0 +1,71 @@
+body
+{
+
+    text-align: center;
+    background-image: url("img1.jpg");
+    background-blend-mode: multiply;
+    background-repeat: no-repeat    ;
+    background-size: cover;
+}
+    
+
+#head
+{
+    text-transform: uppercase;
+    color:black;
+    text-shadow: 0 0 20px white;
+    margin-bottom: 20px;
+    position: relative;
+    animation: text 3s infinite;
+}
+@keyframes text{
+    0%{letter-spacing: 1px;
+    }
+    50%{
+        letter-spacing: 5px;
+    }
+    100%{
+        letter-spacing: 1px;
+    }
+}
+caption, label{
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    text-decoration: underline;
+}
+label{
+    text-decoration: none;
+}
+#deptSelect{
+    width: auto;
+    height: 30px;
+    border: 1px solid gainsboro ;
+    font-weight: bold;
+}
+table{
+    /* text-align: center; */
+    width: auto;
+    border-collapse: collapse;
+    background-color: wheat;
+    border: 2px solid beige;    
+    margin: auto;
+    margin-top: 20px;
+}
+th
+{
+    text-transform: uppercase;
+}
+th, td{
+    border: 1px solid black;
+    padding: 5px;
+    font-weight: bolder;
+}
+tr:nth-child(even){
+    background-color: honeydew;
+}
+#deptSelect
+{
+    background-color:wheat;
+}

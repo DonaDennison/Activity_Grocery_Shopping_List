@@ -1,0 +1,84 @@
+{
+    "list":[
+        {
+            "SrNum":"1",
+            "Name":"Cabbage",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Fresh & Organic"
+        },
+        {
+            "SrNum":"2",
+            "Name":"cucumber",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Fresh & Oraganic"
+        },
+        {
+            "SrNum":"3",
+            "Name":"Carrot",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Fresh only"
+        },
+        {
+            "SrNum":"4",
+            "Name":"Vegetable Oil",
+            "Quantity":"1",
+            "Unit":"li",
+            "Department":"Food",
+            "Notes":"Vegetable Oil only"
+        },
+        {
+            "SrNum":"5",
+            "Name":"Notebook",
+            "Quantity":"2",
+            "Unit":"Number",
+            "Department":"Stationary",
+            "Notes":"200 pages unruled - classmates"
+        },
+        {
+            "SrNum":"6",
+            "Name":"Pen",
+            "Quantity":"10",
+            "Unit":"Number",
+            "Department":"Stationary",
+            "Notes":"Blue, Penpoint"
+        },
+        {
+            "SrNum":"7",
+            "Name":"Color Pencil",
+            "Quantity":"3",
+            "Unit":"Packet",
+            "Department":"Stationary",
+            "Notes":"Camel"
+        },
+        {
+            "SrNum":"8",
+            "Name":"Hand Wash",
+            "Quantity":"3",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Lifeboy"
+        },
+        {
+            "SrNum":"9",
+            "Name":"Bodywash",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Lifeboy"
+        },
+        {
+            "SrNum":"10",
+            "Name":"Sanitizer",
+            "Quantity":"10",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"must contain 70% alchohol"
+        }
+    ]
+}
